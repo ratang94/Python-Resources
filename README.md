@@ -4,6 +4,6 @@ This repository contains Python Resources for learning Purposes collected from d
 
 HAPPY LEARNING
  ⊂◉‿◉つ
- 
- https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif
+  
+ ![](https://github.com/ratang94/Python-Resources/blob/main/giphy.gif)
 
